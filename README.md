@@ -13,7 +13,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) YouTube](https://www.youtube.com/@Coonie-chilling)
 ---
 
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam&show_icons=true&theme=ambient_gradient&hide=contribs,issues)
 
 ---
 
