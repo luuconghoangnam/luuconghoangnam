@@ -20,34 +20,34 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 ## 📌 Pinned Projects
 
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=radical" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-MedicalExaminationForm.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_phieu_kham_benh&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-MedicalExaminationForm&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-SmartNote.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_ghi_chu_cong_viec&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SmartNote&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-SimpleCalculator.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_phep_tinh_co_ban&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SimpleCalculator&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-MarkerManagermentSystem.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=POS-app&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-MarkerManagermentSystem&theme=gruvbox" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-introduce.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=introduce_myself&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-introduce&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-AdmissionsManagement.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=duyet_ho_so_sinh_vien&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-AdmissionsManagement&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-ClinicBookingSystem.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clinic-booking-system&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-ClinicBookingSystem&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-IntroduceSecondName.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clone-myself&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-IntroduceSecondName&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-TextThemeAnalysis.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=phan_tich_chu_de_doan_van&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
 </a>
 
 ---
