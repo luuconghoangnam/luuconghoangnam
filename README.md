@@ -44,7 +44,7 @@ My name is HoangNam/LamCong.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clinic-booking-system&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/clone-myself">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clone-myself&theme=cobalt" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/luuconghoangnam/phan_tich_chu_de_doan_van">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=phan_tich_chu_de_doan_van&theme=highcontrast" />
