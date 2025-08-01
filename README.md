@@ -23,23 +23,32 @@ My name is HoangNam/LamCong.
 <a href="https://github.com/luuconghoangnam/thelastrewind">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
 </a>
-<a href="https://github.com/luuconghoangnam/android_phieu_kham_benh.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
+<a href="https://github.com/luuconghoangnam/android_phieu_kham_benh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_phieu_kham_benh&theme=merko" />
 </a>
-<a href="https://github.com/luuconghoangnam/android_ghi_chu_cong_viec.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
+<a href="https://github.com/luuconghoangnam/android_ghi_chu_cong_viec">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_ghi_chu_cong_viec&theme=merko" />
 </a>
-<a href="https://github.com/luuconghoangnam/android_phep_tinh_co_ban.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
+<a href="https://github.com/luuconghoangnam/android_phep_tinh_co_ban">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_phep_tinh_co_ban&theme=merko" />
 </a>
-<a href="https://github.com/luuconghoangnam/POS-app.git">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-3&theme=gruvbox" />
+<a href="https://github.com/luuconghoangnam/POS-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=POS-app&theme=gruvbox" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-4&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-6&theme=gruvbox" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-7&theme=dark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-8&theme=onedark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-9&theme=cobalt" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-10&theme=radical" />
 </a>
 
 ---
