@@ -8,7 +8,7 @@ My name is HoangNam/LamCong.
 
 ## 📫 How to reach me:
 
-[![Linkedin](#www.linkedin.com/in/hoàng-nam-lưu-công-969515248) LinkedIn](www.linkedin.com/in/hoàng-nam-lưu-công-969515248)
+[![Linkedin]([#www.linkedin.com/in/hoàng-nam-lưu-công-969515248](https://www.linkedin.com/in/ho%C3%A0ng-nam-l%C6%B0u-c%C3%B4ng-969515248/)) LinkedIn]([www.linkedin.com/in/hoàng-nam-lưu-công-969515248](https://www.linkedin.com/in/ho%C3%A0ng-nam-l%C6%B0u-c%C3%B4ng-969515248/))
 [![GitHub](#) GitHub](#)
 [![YouTube](#) YouTube](#)
 
