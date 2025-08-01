@@ -23,9 +23,18 @@ My name is HoangNam/LamCong.
 <a href="https://github.com/luuconghoangnam/thelastrewind">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
 </a>
-<a href="#">
+<a href="https://github.com/luuconghoangnam/android_phieu_kham_benh.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
 </a>
+<a href="https://github.com/luuconghoangnam/android_ghi_chu_cong_viec.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
+</a>
+<a href="https://github.com/luuconghoangnam/android_phep_tinh_co_ban.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
+</a>
+<a href="https://github.com/luuconghoangnam/POS-app.git">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+</a>    
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-3&theme=gruvbox" />
 </a>
