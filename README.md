@@ -22,6 +22,9 @@ My name is HoangNam/LamCong.
 <a href="https://github.com/luuconghoangnam/thelastrewind">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
 </a>
+<a href="https://github.com/luuconghoangnam/thelastrewind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
+</a>
 <a href="https://github.com/luuconghoangnam/android_phieu_kham_benh.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=android_phieu_kham_benh&theme=merko" />
 </a>
