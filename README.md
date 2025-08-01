@@ -10,7 +10,7 @@ My name is HoangNam/LamCong.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/hoàng-nam-lưu-công-969515248)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/luuconghoangnam)
-[![YouTube]([https://github.com/vietnh1009/introduction/blob/main/Youtube.png](https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&page=1&position=6&origin=tag&related_id=1384060)) YouTube](#)
+[![YouTube](https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&page=1&position=6&origin=tag&related_id=1384060) YouTube](https://www.youtube.com/@Coonie-chilling)
 
 ---
 
