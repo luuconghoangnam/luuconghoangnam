@@ -1,13 +1,16 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is **Hoang Nam**. I am passionate about Software Engineering, AI, and Open Source.  
-I am interested in the following topics: Backend Development, DevOps, AI/ML, and Cloud Computing.
+My name is **Hoang Nam**.
+
+**Game developer 💻 | Unity 2D enthusiast 🎮 | Đam mê sáng tạo, không ngừng học hỏi 📚**
+
+---
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luuconghoangnam/) 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/luuconghoangnam) 
-[![YouTube](https://github.com/luuconghoangnam/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@luuconghoangnam)
+[![Linkedin](#) LinkedIn](#)
+[![GitHub](#) GitHub](#)
+[![YouTube](#) YouTube](#)
 
 ---
 
@@ -17,45 +20,51 @@ I am interested in the following topics: Backend Development, DevOps, AI/ML, and
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/luuconghoangnam/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-1&theme=radical" />
+<a href="https://github.com/luuconghoangnam/thelastrewind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
 </a>
-<a href="https://github.com/luuconghoangnam/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-2&theme=merko" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-2&theme=merko" />
 </a>
-<a href="https://github.com/luuconghoangnam/project-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-3&theme=gruvbox" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-3&theme=gruvbox" />
 </a>
-<a href="https://github.com/luuconghoangnam/project-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-4&theme=dark" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-4&theme=dark" />
 </a>
-<a href="https://github.com/luuconghoangnam/project-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-5&theme=onedark" />
-</a>
-<a href="https://github.com/luuconghoangnam/project-6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=project-6&theme=cobalt" />
-</a>
+
+---
+
+## 🛠️ Skills & Interests
+
+- 🎮 Unity 2D/3D Game Development
+- 🕹 Indie Game Creator & DevGame Enthusiast
+- 🖥️ Backend Developer (PHP, SQL, JavaScript)
+- 🌐 Frontend (HTML, CSS, JavaScript)
+- 📱 Android App Development (Java, Kotlin)
+- 🐍 Python App Development
+- 💡 Sáng tạo ứng dụng, game, web đa nền tảng
+- 🚀 Luôn học hỏi công nghệ mới về phát triển phần mềm, lập trình đa lĩnh vực
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 Backend Developer (Python, Node.js, Golang, Java)
-- ☁️ DevOps & Cloud Enthusiast (AWS, Azure, GCP)
-- 🤖 AI/ML & Data Science Explorer
-- 💬 Ask me about: Open Source, Automation, System Design
+- 💻 Đam mê phát triển game, ứng dụng và web
+- 🌟 Yêu thích sáng tạo, thử nghiệm ý tưởng mới
+- 📚 Không ngừng học hỏi và chia sẻ kiến thức
+- 🤝 Luôn sẵn sàng hợp tác phát triển các dự án thú vị
 
 ---
 
 ## ⚡ Fun facts
 
-- I love sharing knowledge and helping others.
-- I’m always open to collaborate on interesting projects.
-- I enjoy learning new technologies and frameworks.
+- Thích thử thách bản thân với các thể loại game/ứng dụng khác nhau
+- Hay tìm hiểu, nghiên cứu các công nghệ mới về lập trình và phát triển phần mềm
+- Luôn đặt chất lượng và trải nghiệm người dùng là ưu tiên hàng đầu
 
 ---
 
 <!--
-If you want to show more pinned projects, copy <a>...</a> blocks and update the repo name.
-You can also personalize the "About Me" and "Fun facts" sections.
+Bạn có thể bổ sung thêm các link, dự án, phần About, Skills... khi cần thiết!
 -->
