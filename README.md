@@ -8,9 +8,9 @@ My name is HoangNam/LamCong.
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoàng-nam-lưu-công-969515248)  
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/luuconghoangnam)  
-[![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) YouTube](https://www.youtube.com/@Coonie-chilling)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg) LinkedIn](https://www.linkedin.com/in/hoàng-nam-lưu-công-969515248)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub](https://github.com/luuconghoangnam)
+[![YouTube](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg) YouTube](https://www.youtube.com/@Coonie-chilling)
 
 ---
 
