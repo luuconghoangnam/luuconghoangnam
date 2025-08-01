@@ -2,7 +2,7 @@
 
 My name is HoangNam/LamCong.
 
-**Game developer 💻 | Unity 2D enthusiast 🎮 | Đam mê sáng tạo, không ngừng học hỏi 📚**
+Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and continuous learning 📚
 
 ---
 
