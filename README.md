@@ -20,7 +20,7 @@ My name is HoangNam/LamCong.
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/luuconghoangnam/thelastrewin">
+<a href="https://github.com/luuconghoangnam/thelastrewind">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=thelastrewind&theme=radical" />
 </a>
 <a href="https://github.com/luuconghoangnam/android_phieu_kham_benh">
