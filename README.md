@@ -8,8 +8,8 @@ My name is HoangNam/LamCong.
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/hoàng-nam-lưu-công-969515248)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/luuconghoangnam)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoàng-nam-lưu-công-969515248)  
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/luuconghoangnam)  
 [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) YouTube](https://www.youtube.com/@Coonie-chilling)
 
 ---
@@ -35,20 +35,20 @@ My name is HoangNam/LamCong.
 <a href="https://github.com/luuconghoangnam/POS-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=POS-app&theme=gruvbox" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-6&theme=gruvbox" />
+<a href="https://github.com/luuconghoangnam/introduce_myself">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=introduce_myself&theme=cobalt" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-7&theme=dark" />
+<a href="https://github.com/luuconghoangnam/duyet_ho_so_sinh_vien">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=duyet_ho_so_sinh_vien&theme=cobalt" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-8&theme=onedark" />
+<a href="https://github.com/luuconghoangnam/clinic-booking-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clinic-booking-system&theme=cobalt" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-9&theme=cobalt" />
+<a href="https://github.com/luuconghoangnam/clone-myself">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=clone-myself&theme=cobalt" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=your-project-10&theme=radical" />
+<a href="https://github.com/luuconghoangnam/phan_tich_chu_de_doan_van">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=phan_tich_chu_de_doan_van&theme=highcontrast" />
 </a>
 
 ---
