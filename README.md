@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is **Hoang Nam**.
+My name is HoangNam/LamCong.
 
 **Game developer 💻 | Unity 2D enthusiast 🎮 | Đam mê sáng tạo, không ngừng học hỏi 📚**
 
@@ -8,7 +8,7 @@ My name is **Hoang Nam**.
 
 ## 📫 How to reach me:
 
-[![Linkedin](#) LinkedIn](#)
+[![Linkedin](www.linkedin.com/in/hoàng-nam-lưu-công-969515248) LinkedIn](www.linkedin.com/in/hoàng-nam-lưu-công-969515248)
 [![GitHub](#) GitHub](#)
 [![YouTube](#) YouTube](#)
 
