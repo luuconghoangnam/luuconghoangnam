@@ -32,7 +32,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SimpleCalculator&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-MarkerManagermentSystem.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-MarkerManagermentSystem&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-MarkerManagermentSystem&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-introduce.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-introduce&theme=cobalt" />
