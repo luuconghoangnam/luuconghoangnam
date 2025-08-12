@@ -22,6 +22,12 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=neon" />
 </a>
+<a href="https://github.com/luuconghoangnam/game-FireFly.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=neon" />
+</a>
+<a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
+</a>
 <a href="https://github.com/luuconghoangnam/app-MedicalExaminationForm.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-MedicalExaminationForm&theme=merko" />
 </a>
@@ -48,12 +54,6 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 </a>
 <a href="https://github.com/luuconghoangnam/app-TextThemeAnalysis.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
-</a>
-<a href="https://github.com/luuconghoangnam/game-FireFly.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=neon" />
-</a>
-<a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
 </a>
 
 ---
