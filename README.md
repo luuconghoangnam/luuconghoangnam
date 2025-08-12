@@ -52,7 +52,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=radical" />
 </a>
-<a href="https://github.com/luuconghoangnam/game-AnimalRus.git">
+<a href="https://github.com/luuconghoangnam/game-AnimalRush.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=radical" />
 </a>
 ---
