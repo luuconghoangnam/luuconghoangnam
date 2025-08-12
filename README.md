@@ -20,7 +20,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 ## 📌 Pinned Projects
 
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=neon" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-MedicalExaminationForm.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-MedicalExaminationForm&theme=merko" />
@@ -50,10 +50,10 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=neon" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
 </a>
 
 ---
