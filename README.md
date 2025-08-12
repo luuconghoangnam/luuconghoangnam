@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is HoangNam/LamCong.
+My name is LamCong.
 
 Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and continuous learning 📚
 
