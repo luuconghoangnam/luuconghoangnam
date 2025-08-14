@@ -55,6 +55,9 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 <a href="https://github.com/luuconghoangnam/app-TextThemeAnalysis.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
 </a>
+<a href="https://github.com/luuconghoangnam/game-Tetris.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-Tetris&theme=neon" />
+</a>
 
 ---
 
