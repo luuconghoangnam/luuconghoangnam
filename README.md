@@ -25,37 +25,37 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=transparent" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-MarkerManagermentSystem.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-MarkerManagermentSystem&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=web-MarkerManagermentSystem&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-introduce.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-introduce&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=web-introduce&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-AdmissionsManagement.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-AdmissionsManagement&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=web-AdmissionsManagement&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-ClinicBookingSystem.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-ClinicBookingSystem&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=web-ClinicBookingSystem&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/web-IntroduceSecondName.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=web-IntroduceSecondName&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=web-IntroduceSecondName&theme=cobalt" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-SmartNote.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SmartNote&theme=merko" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SmartNote&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-SimpleCalculator.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SimpleCalculator&theme=merko" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=app-SimpleCalculator&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-MedicalExaminationForm.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-MedicalExaminationForm&theme=merko" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=app-MedicalExaminationForm&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/app-TextThemeAnalysis.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=app-TextThemeAnalysis&theme=highcontrast" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-Tetris.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-Tetriss&theme=neon" />
