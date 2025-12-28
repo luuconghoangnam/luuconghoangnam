@@ -13,7 +13,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) YouTube](https://www.youtube.com/@Coonie-chilling)
 ---
 
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam&show_icons=true&theme=swift&hide=contribs,issues)
+![Nam's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luuconghoangnam&show_icons=true&theme=swift&hide=contribs,issues)
 ---
 
 ## 📌 Pinned Projects
@@ -22,10 +22,10 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a> -->
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=neon" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=neon" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
