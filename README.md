@@ -14,8 +14,6 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 ---
 
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam&show_icons=true&theme=swift&hide=contribs,issues)
-[![Gone's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuconghoangnam&hide=contribs,prs)
 ---
 
 ## 📌 Pinned Projects
