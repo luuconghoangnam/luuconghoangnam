@@ -25,7 +25,7 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=bùey" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=neon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-AnimalRushh.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-AnimalRush&theme=neon" />
