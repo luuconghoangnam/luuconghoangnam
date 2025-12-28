@@ -19,10 +19,10 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 ## 📌 Pinned Projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=bùey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=transparent" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-FireFly.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luuconghoangnam&repo=game-FireFly&theme=" />
