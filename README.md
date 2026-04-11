@@ -17,12 +17,15 @@ Game Developer 💻 | Unity 2D Enthusiast 🎮 | Passionate about creativity and
 ---
 
 ## 📌 Pinned Projects
-
+drops_Release
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a> -->
+<a href="https://github.com/luuconghoangnam/drops_Release.git">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=drops_Release&theme=merko" />
+</a>
 <a href="https://github.com/luuconghoangnam/hckintosh_AMD_MacOS13">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=hckintosh_AMD_MacOS13&theme=neon" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=hckintosh_AMD_MacOS13&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=neon" />
