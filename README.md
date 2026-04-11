@@ -24,8 +24,11 @@ drops_Release
 <a href="https://github.com/luuconghoangnam/drops_Release.git">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=drops_Release&theme=merko" />
 </a>
-<a href="https://github.com/luuconghoangnam/hckintosh_AMD_MacOS13">
+<a href="https://github.com/luuconghoangnam/hckintosh_AMD_MacOS13.git">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=hckintosh_AMD_MacOS13&theme=merko" />
+</a>
+<a href="https://github.com/luuconghoangnam/pkg-WallpaperExtractor.git">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=pkg-WallpaperExtractor&theme=merko" />
 </a>
 <a href="https://github.com/luuconghoangnam/game-TheLastRewind">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luuconghoangnam&repo=game-TheLastRewind&theme=neon" />
